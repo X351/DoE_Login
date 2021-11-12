@@ -1,6 +1,5 @@
 # Doe_Login
-This is the quicker Python version
-just change the UserName to you username with base64 encodede 
-and the password
+This is the quicker Python version (v3)
+just change "PUT USERNAME" and "PUT PASSWORD" to your username and password and save.
 # How to auto login
 to auto login press win + r then type in "shell:startup" yeet the DoE_Login.py (after editing it) in here and it will auto start.
